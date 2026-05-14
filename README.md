@@ -1,16 +1,45 @@
-## Hi there 👋
+<h2 align="center">Hi, I'm Amin 👋</h2>
 
-<!--
-**AminMootab/AminMootab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<p align="center">
+  🎨 Graphic Designer | 💻 Front-End Developer | ✨ Turning caffeine into code and pixels into magic.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<br/>
+
+## 🌟About Me
+
+💻 I specialize in Front-End Development, but I enjoy exploring other technologies and languages as well.
+
+🚀 I'm always eager to learn new things and take on new challenges.
+
+🎓 I believe in the power of knowledge-sharing.
+
+<br/>
+
+---
+<br/>
+
+## 🛠️Skills
+
+### Design
+- Photoshop
+- Illustrator
+- InDesign
+- After Effects
+- Premiere Pro
+
+### Front-End Development
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Bootstrap
+
+<br/>
+
+---
