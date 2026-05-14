@@ -1,45 +1,25 @@
-<h2 align="center">Hi, I'm Amin 👋</h2>
+<h1 align="center">Hi, I'm Amin Mootab 👋</h1>
 
 <br/>
+
+<h3 align="center">Front-End Developer | ⚡ Turning caffeine into code</h3>
+
+
+
+---
+
+### About Me
+- 🎯 Focused on crafting modern and responsive interfaces
+- 💡 Passionate about clean design and user-friendly experiences
+- 🚀 Always learning and improving my front-end skills
+
+---
+
+### Skills
+<img src='https://skillicons.dev/icons?i=html,css,js'/>
+
+---
 
 <p align="center">
-  🎨 Graphic Designer | 💻 Front-End Developer | ✨ Turning caffeine into code and pixels into magic.
+  <i>Keep learning, keep building, and keep growing.</i>
 </p>
-
----
-
-<br/>
-
-## 🌟About Me
-
-💻 I specialize in Front-End Development, but I enjoy exploring other technologies and languages as well.
-
-🚀 I'm always eager to learn new things and take on new challenges.
-
-🎓 I believe in the power of knowledge-sharing.
-
-<br/>
-
----
-<br/>
-
-## 🛠️Skills
-
-### Design
-- Photoshop
-- Illustrator
-- InDesign
-- After Effects
-- Premiere Pro
-
-### Front-End Development
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- React
-- Bootstrap
-
-<br/>
-
----
